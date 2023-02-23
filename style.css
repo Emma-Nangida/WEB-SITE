@@ -1,0 +1,62 @@
+body{
+    display: flex;
+    flex-direction: left;
+    background-image:url(emma.jpg) ;
+    background: size 1px; ;   
+    
+    
+    
+    
+}
+.text{
+ display: flex;
+flex-direction: column;
+display:inline-block;
+float:right to left;
+margin: 0;
+padding: ;;
+list-style-type: style left;
+
+
+ 
+}
+
+
+
+
+#main{
+   float: 50 50 40 60;
+  text-align: center;
+  padding: 2px 2px;
+  text-decoration: none;
+  font-size: 30px;
+  
+  
+    
+}
+
+#h{
+    font-size: 20px;
+    float: left;
+    max-width: 2px;
+}
+button{
+
+    color: blue;
+    border-block-end-style: solid black;
+    border-radius: 20px;
+    padding: 2px;
+    font-size: large;
+}
+image{
+    display: flex;
+    border-radius: 4px;
+    padding: 2px;
+    margin: 20%;
+
+}main{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    padding: 100px; 
+}
